@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\bin\Debug\net7.0\Parol.exe
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\bin\Debug\net7.0\Parol.deps.json
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\bin\Debug\net7.0\Parol.runtimeconfig.json
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\bin\Debug\net7.0\Parol.dll
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\bin\Debug\net7.0\Parol.pdb
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\obj\Debug\net7.0\Parol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\obj\Debug\net7.0\Parol.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\obj\Debug\net7.0\Parol.AssemblyInfo.cs
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\obj\Debug\net7.0\Parol.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\obj\Debug\net7.0\Parol.dll
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\obj\Debug\net7.0\refint\Parol.dll
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\obj\Debug\net7.0\Parol.pdb
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\obj\Debug\net7.0\Parol.genruntimeconfig.cache
+C:\Users\hp\Desktop\HomeTask\Parol\Parol\obj\Debug\net7.0\ref\Parol.dll
